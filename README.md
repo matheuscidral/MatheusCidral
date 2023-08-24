@@ -1,7 +1,3 @@
-### Olá, meu nome é Matheus e seja bem vindo ao meu mundo 🌎 !
-
-👾 Atualmente a procura de um estágio 👾
-
 <div align="center">
   <a href="https://github.com/MatheusCidral">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCidral&show_icons=true&theme=nord&include_all_commits=true&count_private=false"/>
