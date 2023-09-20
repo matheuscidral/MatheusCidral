@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://github.com/MatheusCidral">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCidral&show_icons=true&theme=nord&include_all_commits=true&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCidral&layout=compact&langs_count=7&theme=nord"/>
 </div>
