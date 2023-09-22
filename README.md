@@ -2,6 +2,7 @@
     <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusCidral&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=6495ED&bg_color=0d1117&include_all_commits=true&count_private=false"/>
     <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusCidral&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=6495ED&bg_color=0d1117"/>
 </div>
+
 ### Main skills:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
